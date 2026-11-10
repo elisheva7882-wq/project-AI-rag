@@ -1,0 +1,10 @@
+# Direct dependencies installed and import-verified on Windows / Python 3.12.9.
+streamlit==1.66.1
+python-dotenv==1.2.4
+chromadb==1.5.9
+llama-index-core==0.14.25
+llama-index-vector-stores-chroma==0.6.0
+llama-index-llms-google-genai==0.11.3
+llama-index-embeddings-google-genai==0.6.0
+google-genai==2.34.0
+pytest==9.2.0
